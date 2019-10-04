@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "315685395082",
+    "firebase_url": "https://camera-34a5d.firebaseio.com",
+    "project_id": "camera-34a5d",
+    "storage_bucket": "camera-34a5d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:315685395082:android:7ac704413ab65843526b73",
+        "android_client_info": {
+          "package_name": "com.camera"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "315685395082-47v1cf11acbredac18p07vp4jrkjt3ld.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6bZvej6No3AMUwPbW-0nERRnKVMiK0OU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "315685395082-47v1cf11acbredac18p07vp4jrkjt3ld.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
